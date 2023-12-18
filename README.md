@@ -1,1 +1,1 @@
-# r_project
+The code is located in scritp.R
